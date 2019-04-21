@@ -8,6 +8,8 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
+//This is Sample Project by Shyam Mistry
+
 namespace SimpleCalculator1._2
 {
     public partial class Form1 : Form
